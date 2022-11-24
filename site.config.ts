@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '前端值得付费的工具',
-  domain: 'quxl.notion.site',
+  domain: 'https://quxl.notion.site/6be8acb6f1d8414b995290e6e406129d',
   author: '晓',
 
   // open graph metadata (optional)
