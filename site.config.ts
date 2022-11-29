@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '6be8acb6f1d8414b995290e6e406129d',
+  rootNotionPageId: 'quxl-fans-b35cc75baf3b404592d762bfb81626a4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '前端值得付费的工具',
-  domain: 'https://quxl.notion.site/6be8acb6f1d8414b995290e6e406129d',
+  name: 'quxl.fans',
+  domain: 'https://quxl.notion.site/quxl/quxl-fans-b35cc75baf3b404592d762bfb81626a4',
   author: '晓',
 
   // open graph metadata (optional)
-  description: '晓整理的值得付费的工具',
+  description: '晓的见闻、思考、工具',
 
   // social usernames (optional)
   twitter: '',
